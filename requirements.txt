@@ -1,4 +1,0 @@
-aiohttp
-requests
-gunicorn == 19.9.0
-botbuilder-core>=4.7.0
